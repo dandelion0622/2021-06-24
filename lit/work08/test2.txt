@@ -1,0 +1,435 @@
+root@dlp:~# apt install sudo
+apt install sudo
+sudo apt update
+sudo apt install ruby
+sudo apt install python
+sudo apt install java
+sudo apt install javascript
+echo Hello
+echo Hello > file01.txt
+echo Good bye >> file01.txt
+cat file01.txt
+pwd
+mkdir dir01  dir02 dir03
+ls text01.txt
+ls dir01
+ls
+cd ...
+cd ..
+cd home
+cd dir01
+cd c0b21036
+pws
+pwd
+~/dir01
+~
+pwd
+/
+cd .
+pwd
+cd ./dir01
+pwd
+cd
+pwd
+cat text01.tx
+cat text01.txt
+pwd
+cd /dir01
+cd dir01
+mkdir sub01
+cd sub01
+pwd
+cwd
+cd ..
+cd /home/c0b21036/dir/sub01
+cd /home/c0b21036/dir01/sub01
+cd ~
+cp file01.txt file01.txt
+cp file01.txt file02.txt
+cp file01.txt dir01/newfile.txt
+cp file01.txt /home/c0b21036/dir01/newfile01.txt
+ls dir01
+touch file03.txt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ls
+cd home/c0b21036/dir01/sub01
+cd home/c0b21036/dir01
+cd /home/c0b21036/dir01/sub01
+touch cng.config
+mv file01.txt dir02
+cd
+mv file01.txt dir02
+ls
+ls dir02
+mv file03.txt file03.cfg
+rm file03.cfg
+ls
+rm dir03
+rmdir dir03
+ls
+rmdir dir01
+rmdir -r dir01
+rm -r dir
+rm -r dir01
+/mnt/c/users/Desktop/Ubuntu
+/mnt/c/Users/c0b21036
+mkdir c0b21036
+/mnt/c/Users/kouka
+echo file02.txt
+cat file02.txt
+mv file02.txt /mnt/c/Users/c0b21036
+mv file02.txt /mnt/c/Users/kouka
+mv file02.txt /mnt/c/Users
+mv file02.txt /mnt/C:\Users\kouka\Desktop\Ubuntu
+mv file02.txt /mnt/C/Users/kouka/Desktop/Ubuntu
+mv.file02.txt /mnt/c/Users/c0b21036
+mv file02.txt /mnt/c/Users/c0b21036
+sudo  mv file02.txt /mnt/c/Users/c0b21036
+echo Hello > file01.txt
+mkdir dir01
+ls 
+ls -a
+ls -l
+mkdir /lit/work07/
+mkdir lit
+mkdir lit/work07
+mkdir lit
+mkdir lit/work07
+mkdir lit/work07/ex01
+cd /lit/work/ex01
+cd lit/work/ex01
+cd lit
+mkdir lit
+mkdir lit/work07
+mkdir lit/work07/ex01
+cd lit
+cd work07
+cd ex
+cd ex01
+pwd
+mkdir dir1 dir2
+touch file1.txt file2.txt
+mv file2.txt file3.txt
+cp file3.txt dir1
+cd dir1
+mv file3.txt file4.txt
+sudo apt install acl
+ls -a -l
+getfacl file1
+getfacl file01.txt
+chmod u-w file01.txt
+ls -l
+chmod u+w file01.txt
+chmod u-w file01.txt
+echo ABCDE > file01.txt
+chmod 777 file01.txt
+ls -a -l
+su
+mkdir lit
+mkdir lit/work07
+mkdir lit/work07/ex01
+cd lit
+cd work07
+cd ex01
+pwd
+mkdir dir1 dir2
+touch file1.txt file2.txt
+mv file2.txt file3.txt
+mv file1.txt dir1
+cp file3.txt dir1
+mv file3.txt file4.txt
+cd /home/c0b21036/lit/work07/ex/dir1
+cd dir1
+pwd
+touch file5.txt
+cd /lit/work07/ex01
+cd /home/c0b21036/lit/work07/ex01/dir1
+pwd
+echo Tokyo > file5.txt
+cat file5.txt
+cd..
+cd ..
+pwd
+cd
+ls -a -l
+cd /home/c0b21036/lit/work07/ex01
+ls -al
+cd /home/c0b21036/lit/work07/ex01
+ls -a -l
+chmod uo+r file3.txt
+ls -a -l
+cd /home/c0b21036/lit/work07/ex01
+ls -al
+chmod g-r
+cd /home/c0b21036/lit/work07/ex01
+ls -al
+chmod g-r file3.txt
+ls -al
+chmod 722 dir2
+ls -al
+rm -r dir2 file3.txt
+ls -al
+rm -r dir1
+ls -al
+cmkdir lit
+cd /home/c0b21036/lit/work07
+mv file3.txt file4.txt
+pwd
+cd ..
+pwd
+echoTokyo > file5.txt
+echo Tokyo > file5.txt
+cat file5.txt
+cd ..
+pwd
+ls -al
+cd work07
+ls -al
+chmod g-r file3.txt
+ls -al
+cd /home/c0b21036/lit/work07/dir1
+echo Tokyo > file5.txt
+cat file5.txt
+cd ..
+ls -al
+chmod g-r file3.txt
+ls -al
+chmod 722 dir2
+ls -al
+rm -r file3.txt dir2 dir1
+ls 
+ls -al
+sudo chmod g+w o+w password.txt
+sudo chmod g+w password.txt
+cd /home/c0b21036/lit/work07
+sudo touch password.txt
+ls -al
+echo pass = abc > password.txt
+sudo chmod g+w
+sudo chmod g+w password.txt
+echo pass = abc > password.txt
+cd /home/c0b21036/lit/work07
+sudo chmod g+w o+w password.txt
+sudo chmod o+w password.txt
+echo pass = abc > password.txt
+cat password.txt
+mkdir lit
+cd lit
+mkdir work07
+cd work07
+pwd
+mkdir dir1 dir2
+touch file1.txt file2.txt
+mv file2.txt file3.txt
+mv file1.txt dir1
+cp file3.txt dir1
+mv file3.txt file4.txt
+cd dir1
+pwd
+echo Tokyo > file5.txt
+cat file5.txt
+cd ..
+pwd
+ls -al
+cd /home/c0b21036/lit/work07
+mv password.txt /mnt/c/Users/c0b21036
+echo mv password.txt /mnt/c/Users/c0b21036
+mkdir lit
+cd lit
+mkdir work07
+cd work07
+ls -al
+mkdir lit
+cd lit
+mkdir work07
+cd work07
+ls
+mkdir lit
+cd lit
+mkdir work07
+cd work07
+pwd
+mkdir dir1 dir2
+touch file1.txt file2.txt
+ls
+mv file2.txt file3.txt
+ls
+mv file1.txt dir1
+cd dir1
+ls
+cp file3.txt dir1/file4.txt
+cd ..
+cp file3.txt dir1/file4.txt
+cd dir1
+ls
+cd ..
+cd dir1
+ls
+echo Tokyo > file5.txt
+ls
+cat file5.txt
+cd ..
+ls
+ls -al
+chmod o+w file3.txt
+li -al
+chmod o+w file3.txt
+ls -al
+chmod 722 dir2
+ls -al
+rm file3.txt
+ls -al
+rmdir dir2
+ls -al
+rmdir -r dir1
+rm -r dir1
+ls
+sudo touch password.txt
+ls
+echo pass = abc > password.txt
+ls -al
+sudo chmod o+w password.txt
+ls -al
+echo pass = abc > password.txt
+cat password.txt
+mv password.txt /mnt/C/Users/c0b21036
+mv password.txt /mnt//Users/c0b21036
+mv password.txt /mnt/c/Users/c0b21036
+sudo mv password.txt /mnt/c/Users/c0b21036
+mv password.txt /mnt/c/Users/kouka/Desktop
+sudo apt install aptitude
+sudo apt install firefox
+sudo apt purge ruby rbenv ruby-build
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+rbenv install -l
+CONFIGURE_OPTS='--disable-install-rdoc' rbenv install 2.7.0
+sudo apt install rbenv
+rbenv install
+rbenv install -l
+CONFIGURE_OPTS='--disable-install-rdoc' rbenv install 2.7.0
+CONFIGURE_OPTS='--disable-install-rdoc' rbenv install 2.7.1
+CONFIGURE_OPTS='--disable-install-rdoc' rbenv install 3.0.0
+apt installed
+apt
+apt list
+apt show
+sudo apt install python
+sudo apt install python3
+sudo apt install python3.1
+sudo apt install python3 help
+cd /home/c0b21036
+cd /home/c0b21036/lit
+ls -al
+cd /home/c0b21036/lit/work07
+ls -al
+ls -a
+ls -
+ls 
+sudo tlmgr update --self --all
+update
+apt update
+sudo apt update
+$ sudo apt dist-upgrade
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt dist-upgrade
+sudo apt-get install update-manager-core
+cat /etc/update-manager/release-upgrades
+sudo do-release-upgrade
+apt full-upgrade 
+sudo apt full-upgrade 
+sudo
+sudo apt full-upgrade 
+sudo apt-get install update-manager-core
+c
+\list
+ls
+less file01
+less file01.txt
+touch tmp.txt
+cd /lit/lec08
+mkdir /lit/lec08
+cd lit
+mkdir lec08
+~
+cd ~
+cp tmp.txt /lit/lec08/practice01.txt
+ls
+cp tmp.txt lit/lec08/practice01.txt
+rm tmp.txt
+cd lit/lec08
+echo Orange >> practice01.txt
+echo apple >> practice01.txt
+echo melon >> practice01.txt
+echo lemon >> practice01.txt
+echo watermelon >> practice01.txt
+echo pineapple >> practice01.txt
+less practice01.txt
+cd ~
+ls
+tar -zcvf file_FairyTale3-01.tar.gz Fairytale3.01
+tar -zcvf file_FairyTale3-01.tar.gz Fairytale3-01
+tar -zcvf file_FairyTale3-01.tar.gz FairyTale3-01
+ls
+cd /lit/lec08
+cd lit/lec08
+cp practice01.txt tmp02.txt
+mv tmp02.txt practice02.txt
+tar -zcvf practice.tar.gz practice01.txt practice02.txt
+rm practice01.txt practice02.txt
+tar -zxvf practice.tar.gz
+ls
+touch practice03.txt
+vi practice03.txt
+less practice03.txt
+cp practice03.txt practice04.txt
+vi practice04.txt
+cd ~
+ls --
+ls -al
+vi .bashrc
+vi bashrc
+vi .bashrc
+source .bashrc
+vi .bashrc
+source .bashrc
+vi .bashrc
+source .bashrc
+alias win='cd mnt/c/Users'
+sourcr .bashrs
+source .bashrs
+source .bashrc
+ls -al
+vi .bashrc
+ls -al
+vi .bashrc
+source .bashrc
+win
+cd 
+vi .bashrc
+source .bashrc
+dsktp
+vi .bashrc
+source .bashrc
+dsktp
+vi .bashrc
+source .bashrc
+dsktp
+cd ~
+history -a
+history a
+history -a
+/.bash_history
+pwd
+less bash_history
+less .bash_history
+cd lit
+mkdir work08
+cd work08
+cd lit/work08
+cd lit
+mkdir work08
+cp /home/c0b21036/.bash_history test1.txt
+less test1.txt
+cd work08

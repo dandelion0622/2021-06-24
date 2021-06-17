@@ -1,0 +1,27 @@
+[2021-06-17 15:21:45.635] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-17 15:21:45.636] [remoteagent] [info] Extension host agent started.
+[2021-06-17 15:21:45.850] [remoteagent] [info] [::ffff:172.27.224.1][f60e5c30][ManagementConnection] New connection established.
+[2021-06-17 15:21:45.851] [remoteagent] [info] [::ffff:172.27.224.1][7a1895e8][ExtensionHostConnection] New connection established.
+[2021-06-17 15:21:45.945] [remoteagent] [info] [::ffff:172.27.224.1][7a1895e8][ExtensionHostConnection] <82> Launched Extension Host Process.
+[2021-06-17 15:22:47.072] [remoteagent] [info] [::ffff:172.27.224.1][a759883c][ManagementConnection] New connection established.
+[2021-06-17 15:22:47.098] [remoteagent] [info] [::ffff:172.27.224.1][3e7a841b][ExtensionHostConnection] New connection established.
+[2021-06-17 15:22:47.103] [remoteagent] [info] [::ffff:172.27.224.1][3e7a841b][ExtensionHostConnection] <149> Launched Extension Host Process.
+[2021-06-17 15:22:50.915] [remoteagent] [info] [::ffff:172.27.224.1][a759883c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-17 15:22:51.927] [remoteagent] [info] [::ffff:172.27.224.1][3e7a841b][ExtensionHostConnection] <149> Extension Host Process exited with code: 0, signal: null.
+[2021-06-17 15:23:06.287] [remoteagent] [info] [::ffff:172.27.224.1][4d7477ff][ManagementConnection] New connection established.
+[2021-06-17 15:23:06.311] [remoteagent] [info] [::ffff:172.27.224.1][2a0580b3][ExtensionHostConnection] New connection established.
+[2021-06-17 15:23:06.319] [remoteagent] [info] [::ffff:172.27.224.1][2a0580b3][ExtensionHostConnection] <201> Launched Extension Host Process.
+[2021-06-17 15:23:23.301] [remoteagent] [info] [::ffff:172.27.224.1][4d7477ff][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-17 15:23:24.312] [remoteagent] [info] [::ffff:172.27.224.1][2a0580b3][ExtensionHostConnection] <201> Extension Host Process exited with code: 0, signal: null.
+[2021-06-17 15:23:29.326] [remoteagent] [info] [::ffff:172.27.224.1][f60e5c30][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-17 15:23:30.340] [remoteagent] [info] [::ffff:172.27.224.1][7a1895e8][ExtensionHostConnection] <82> Extension Host Process exited with code: 0, signal: null.
+[2021-06-17 15:23:30.340] [remoteagent] [info] Last EH closed, waiting before shutting down
